@@ -1,0 +1,1 @@
+# Recognition-of-Hand-Movement-for-Paralytic-Persons-Based-on-a-Neural-Network
